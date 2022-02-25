@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true account of the behaviour and confessions of the condemned criminals in Newgate viz. Samuel Presby, Richard Hooker, Edward Linsy, Robert Nichols, Thomas Crompton, Mary Fisher, Thomas Gardner, Richard Jones, Katharine Brown, Matthew Morgan, Mary Collwood, Ann Davis : of which Samuel Presby, Richard Hooker, Thomas Crompton, were executed at Tyburn, and Edward Linsy on Tower-hill : as also Henry Cornish (who was executed in Cheapside) and Elizabeth Gaunt, was likewise executed October 23d, 1685, she being burnt for high-treason, at Tyburn.</title>
+            <author>Smith, Samuel, 1620-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60549</idno>
+            <idno type="STC">Wing S4202</idno>
+            <idno type="STC">ESTC R492267</idno>
+            <idno type="EEBO-CITATION">18196321</idno>
+            <idno type="OCLC">ocm 18196321</idno>
+            <idno type="VID">106997</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106997)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1130:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true account of the behaviour and confessions of the condemned criminals in Newgate viz. Samuel Presby, Richard Hooker, Edward Linsy, Robert Nichols, Thomas Crompton, Mary Fisher, Thomas Gardner, Richard Jones, Katharine Brown, Matthew Morgan, Mary Collwood, Ann Davis : of which Samuel Presby, Richard Hooker, Thomas Crompton, were executed at Tyburn, and Edward Linsy on Tower-hill : as also Henry Cornish (who was executed in Cheapside) and Elizabeth Gaunt, was likewise executed October 23d, 1685, she being burnt for high-treason, at Tyburn.</title>
+                  <author>Smith, Samuel, 1620-1698.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Samuel Smith, ordinary.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:106997:1" rendition="simple:additions"/>
+            <head>The True ACCOUNT of the Behaviour and Confeſſions OF THE Condemned Criminals IN NEWGATE, VIZ. <hi>Samuel Presby, Richard Hooker, Edward Linſy, Robert Nichols, Thomas Crompton, Mary Fiſher, Thomas Gardner, Richard Jones, Katharine Brown, Matthew Morgan, Mary Collwood, Ann Davis.</hi> OF WHICH <hi>Samuel Presby, Richard Hooker, Thomas Crompton,</hi> were Executed at <hi>Tyburn,</hi> and <hi>Edward Linſy</hi> on <hi>Tower-hill.</hi> AS ALSO <hi>Henry Corniſh</hi> (who was Executed in <hi>Cheapſide</hi>) and <hi>Elizabeth Gaunt,</hi> was likewiſe Executed <hi>October</hi> 23d. 1685. ſhe being Burnt for HIGH-TREASON, AT TYBURN.</head>
+            <p>AT the Seſſions of <hi>Oyer</hi> and <hi>Terminer,</hi> and Gaol Delivery of <hi>Newgate,</hi> held for the City of <hi>London,</hi> and County of <hi>Middleſex,</hi> at Juſtice-Hall in the <hi>Old Bayly,</hi> the 14, 15, and 16 Days of <hi>October,</hi> 1685. Theſe Perſons following reeieved Sen<g ref="char:EOLhyphen"/>tence of Death, <hi>viz. Samuel Presby, Richard Hooker, Edward Linſy, Robert Nichols, Thomas Crompton, Mary Fiſher, Thomas Gardner, Richard Jones, Katharine Brown, Matthew Morgan, Mary Collwood, Ann Davis.</hi>
+            </p>
+            <p>The <hi>Ordinary</hi> earneſtly Admoniſh'd them on the Lords day, that they would redeem their miſpent Time, in a ſerious conſideration, for what ſpecial Sins the Lord had withdrawn his preventing Grace; which he never doth, till Sinners have quench'd the motions and excita<g ref="char:EOLhyphen"/>tions of his Holy Spirit, enviting them by his Long Suffering unto Repentance.</p>
+            <p>Before the <hi>Ordinary</hi> began to read Prayers, he adviſed all the Priſoners, as his uſual man<g ref="char:EOLhyphen"/>ner is, to obſerve moſt Solemnly the the Lords Holy Day, and to return unto him, as the only reſt of their Souls, by ſeeking true Satisfaction and Delight in him, and his Service, from whom they wandred all the Week paſt, by the Vani<g ref="char:EOLhyphen"/>ty of their Hearts and Converſations: And that the Condemned Criminals in a ſpecial manner would be very Intentive on the publick Prayers of the Church, and to the Sermons which ſhould be Preach'd to them, which they promiſed to do.</p>
+            <p>In the Forenoon the <hi>Ordinary</hi> Preach'd on the 21 Ver. of the fifth Chap. of St. <hi>Pauls</hi> Epiſtle to the Romans, <hi>viz. As Sin hath reigned unto Death, ſo hath Righteouſneſs unto Life, by Jeſus Chriſt our Lord.</hi> From which, he informed them of the deplorable Eſtate of all Men, being virtually concerned in the Apoſtacy of the
+<pb n="2" facs="tcp:106997:2" rendition="simple:additions"/>firſt <hi>Adam,</hi> whoſe Sin was complicated with many Aggravations; and that by the ſingle Offence of this firſt Man, being under the Covenant of Works, as requiring of him per<g ref="char:EOLhyphen"/>ſonal perfect Obedience, being Created after the Image of God, in perfect Righteouſneſs, the leaſt declination from his Obedience did involve moſt juſtly himſelf, and all his Natural Poſterity, as being their common Repreſenta<g ref="char:EOLhyphen"/>tive and Truſtee for them, in the ſame State of Sin and Miſery. Thus his Sin reigned unto Death, in all ſuch who ſin after the ſimilitude of his Tranſgreſſion: Inaſmuch, that beſide the vicious Inclination of their Nature, they make his Sin become their Own, by a volun<g ref="char:EOLhyphen"/>tary increaſing thoſe ſinful Diſpoſitions inhe<g ref="char:EOLhyphen"/>rent in themſelves. In like manner, as a Vici<g ref="char:EOLhyphen"/>ous Off-ſpring, do ſtrengthen and augment an hereditary Diſeaſe, by their proper and vo<g ref="char:EOLhyphen"/>luntary Intemperance and debauch'd Exceſſes.</p>
+            <p>Therefore it is very unreaſonable and abſurd to caſt the blame of our perſonal Provocations upon any fatal Deſtiny in God or on the im<g ref="char:EOLhyphen"/>putation of <hi>Adams</hi> firſt Sin to his Poſterity, con<g ref="char:EOLhyphen"/>ſidering that every Man entitles himſelf to the guilt of <hi>Adams</hi> Sin, and adopts it voluntarily to become his own, by treading in the ſame ſteps of Diſobedience.</p>
+            <p>Here was declared what perſonal Sins be<g ref="char:EOLhyphen"/>came moſt deadly, as being leaſt capable of Gods Mercy in Pardoning of them; then what are the poenal horrid conſequences of ſuch Sins, they being more aggravated in their own Nature. Alſo it was declared what are the cha<g ref="char:EOLhyphen"/>racters by which we may diſcover, which is that chief beloved Sin, as reigning in us, and will certainly prevail over us unto Death Eternal, if not timely and ſincerely Repented. Here<g ref="char:EOLhyphen"/>upon was added many Arguments to mortifie ſuch Sins chiefly, leſt they <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eig<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> unto Death. Alſo the difference betwixt true and coun<g ref="char:EOLhyphen"/>terfeit mortification of Luſ<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; with directions how to ſubdue the Law of Sin, that it may not prevail over us.</p>
+            <p>Then the <hi>Ordinary</hi> proceeded to ſhew the miſery of all ſuch in whom Sin reigns, in the Love and Indulgence of it; and that it is im<g ref="char:EOLhyphen"/>poſſible to be ſet free from the Law of Sin and Death, but only by the infinite Righteouſneſs of <hi>Chriſts</hi> Active and Paſſive Obedience, impu<g ref="char:EOLhyphen"/>ted to Sinners, by Gods free Grace upon timely Repentance, and a ſincere Faith, deriving ſtrength from the influences of <hi>Chriſts Spirit,</hi> for the re<g ref="char:EOLhyphen"/>novation of their Hearts, and univerſal Obedi<g ref="char:EOLhyphen"/>ence to Gods Commandments: inaſmuch as true juſtifying Faith accepts of <hi>Chriſt</hi> in all his Offices, in his Kingly Righteouſneſs to rule us by his Laws and Spirit, as well as to ſave us by his Prieſtly Righteouſneſs. This is the only true compleat method of Salvation, becauſe God hath ſent his Son to bleſs us. How? By turning us from the love and dominion of all our Iniquities, equally, as in turning them from us in the damning guilt of them.</p>
+            <p>Thus God juſtifies none in an ungodly ſtate. We muſt firſt be Regenerated; which contains Faith, Repentance, and new Obedience, before we can obtain Gods actual Pardon, in as much as theſe are the Terms and Qualifications of the Covenant of Grace, to make us capable of the Benefits purchaſed by <hi>Chriſt</hi> for us, ſo that his Kingly as well as Prieſtly Righteouſneſs muſt reign in our Sanctification, and obedience to his Laws, that we may inherit Eternal Life. As for that Objection That God Juſtifies the Ungodly it cannot be meant of ſuch whom he finds in an Ungodly State, but only of Rege<g ref="char:EOLhyphen"/>nerate Perſons, who are called Ungodly in a leſs degree, as having ſtill the remainders of Defilement in them, which makes even them unlike to God, as having <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot in this Life perfect Holineſs, and therefore Juſtification is not by our beſt inherent Righteouſneſs, which needs conſtant daily extending of <hi>Chriſts</hi> Righteouſ<g ref="char:EOLhyphen"/>neſs to cover the ſ<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ots of our holieſt Services.</p>
+            <p>Here the <hi>Ordinary</hi> excited them to a regular Genuine Faith and Repentance, that ſo, as the Malignity and Infection of <hi>Adams</hi> Sin, confir<g ref="char:EOLhyphen"/>med by their cuſtomary Exceſſes, had reigned unto Death; ſo the Benign efficacy of <hi>Chriſts</hi> Righteouſneſs might reign more triumphantly in the infinite value and vertue of it; as for our Juſtification, ſo to produce in us by the Almigh<g ref="char:EOLhyphen"/>ty Operations of his holy Spirit, not only a ſtate of Sanctification, but with it all degrees of Spiritual Life, in progreſſive Holineſs, till it be conſummated in Eternal Glory.</p>
+            <p>Here thoſe degrees of ſpiritual Life were enu<g ref="char:EOLhyphen"/>merated, and how <hi>Chriſts</hi> Righteouſneſs reigns in thoſe in a tranſcendent Efficacy beyond all the degrees of ſpiritual Death contracted by the Malignity and Defilement of the firſt <hi>Adam's</hi> Sin, of ou<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perſonal voluntary Pro<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocations.</p>
+            <p>After this the <hi>Ordinary</hi> made a *s;hort Speech to the Condemned Malefactors, and diſmiſſed them with Prayer and the uſual Benediction of the Church Liturgy. In the Afternoon he read the ſolemn appointed Offices, and another Sermon was preach'd to them on theſe Words, <hi>To Day if you will hear his Voice, harden not your Hearts.</hi> Which the Perſon who preach'd trea<g ref="char:EOLhyphen"/>ted of very cloſely and pathetically: So that I hope it made a good Impreſſion on them.</p>
+            <p>Now I proceed to give an account of what fitneſs they were in for their approaching Death.</p>
+            <p>
+               <hi>Katharine Brown,</hi> of the Pariſh of <hi>Twitnam,</hi> Indicted October the 4th. for that being Deli<g ref="char:EOLhyphen"/>vered of a Baſtard Child, on the ſame Day ſhe carryed the Child to a Brook, and put it there in, Choaking and Drowning it with Water. It was proved the Priſoner confeſs'd the Child was hers, and that ſhe was Delivered thereof in a <hi>Meadow,</hi> but that it was Born Dead: but being no ways Credited, ſhe was brought in Guilty.</p>
+            <p>In this ſad Inſtance, which is too frequent, its obſervable how Satan prevails upon Sinners
+<pb n="3" facs="tcp:106997:2"/>by degrees: firſt he Tempts them to Immodeſty, and Laciviouſneſs in Conver<g ref="char:EOLhyphen"/>ſation, by not ſetting a Watch over their Hearts, to prevent inward Luſting in the firſt Motions and Ebullitions of it; then by unwary Converſe with prophane Perſons, Tempts them from Chambering and Wan<g ref="char:EOLhyphen"/>tonneſs, to comply with flagitious deſires of gratifying ſenſual brutiſh Commixtures; to cover and conceal the turpitude and ſhame of which, he draws them to Murder their Illegitimate Off-ſpring; which is a moſt unnatural Crime, in as much as the very Sea-Monſters Suckle and Preſerve their Young. But common Reaſon depra<g ref="char:EOLhyphen"/>ved, grows impatient of any reſtraint from the dictates of Nature, and ſo expoſes to the moſt abominable Crimes.</p>
+            <p>Murder, eſpecially that of the Mothers Murdering of her own Child, is a moſt horrid Sin, which cries loud to Gods Juſtice for the Diſcovery and Puniſhment of it. The <hi>Ordinary</hi> aſſured her, that without a ſincere extraordinary Repentance, the guilt and defilement of ſo abominable a Crime could not be expiated: for ſhe ought to have conſidered that ſhe conceived the Child in a baſe way, and therefore ſtood engaged to have declared her Remorſe in bringing it to <hi>Chriſts</hi> Holy Baptiſm, and to have acknowledged publickly her great ſcandalous Sin. Yet ſhe was ſo averſe from this Ingenuity, that to cover her vile Of<g ref="char:EOLhyphen"/>fence, ſhe offered not her Child to Baptiſm, which is the Laver of Regeneration, that ſo it might be dedicated to the holy <hi>Trinity,</hi> but had choſen rather to devote her ſelf Soul and Body to eternal Deſtruction, by embrewing her Hands in the Blood of her Innocent Babe. She was told how difficult it was to Repent of ſuch a Murder; when as no Sin is more hardning of the Heart, it being ſo directly againſt humane Nature, and renders the Murderer more ſtupid than any Beaſt.</p>
+            <p>That ſhe was not to ſink in Deſparation, yet ſo to aggravate her Crime, as upon ſincere Repentance, to look up to a Cru<g ref="char:EOLhyphen"/>cified <hi>Jeſus,</hi> who prayed for thoſe who ſhed his moſt ſacred Blood; which if ſhe beg fervently of God, to apply it by an unfeigned Faith, the infinite Merits of it will not only atone Divine Vengeance, but expiate the deep defilement of ſo horrid a Crime.</p>
+            <p>She was not able to reply any thing more to me, than that ſhe was truly ſorry for ſo great a Sin, and deſired me to Pray for her, that God would ſoften her obdurate Heart, and work in her a thorow Repen<g ref="char:EOLhyphen"/>tance, that ſhe may not Dy in her Sin, tho ſhe might ſuffer a publick ſhameful Death for it.</p>
+            <p>She was ignorant in Soul concernments, and could not Read, therefore could give the leſs account of the change of her Heart.</p>
+            <p>
+               <hi>Mary Fiſher, Mary Collwood,</hi> and <hi>Ann Davis,</hi> were not free to Diſcourſe with the <hi>Ordinary,</hi> concerning their preſent Re<g ref="char:EOLhyphen"/>pentance, in order to their Everlaſting Hap<g ref="char:EOLhyphen"/>pineſs, becauſe upon pleading they were Quick with Child, and the Jury of Wo<g ref="char:EOLhyphen"/>men bringing in their Verdict it was Truth, they three Criminals were ordered to be kept in Goal till they ſhall be delivered in Child-bed.</p>
+            <p>The <hi>Ordinary</hi> told them that he had ob<g ref="char:EOLhyphen"/>ſerved ſome Criminals in the ſame circum<g ref="char:EOLhyphen"/>ſtances with them, had grown more Ob<g ref="char:EOLhyphen"/>durate by ſo long a Reſpit from Death, perverting the Equity and Clemency of the Law, that the Innocent Child ſhall not Periſh with the guilty Mother, into an oc<g ref="char:EOLhyphen"/>caſion of greater Security and Impenitency. He wiſh'd that their Reprieve might not produce ſuch ill Effects in them, but ra<g ref="char:EOLhyphen"/>ther, that they would conſider whether their Children were Legitimate: if not, this was but a very Sinful Artifice to prevent a ſudden Execution, hoping thereby to get a Tranſportation. But if they did not Re<g ref="char:EOLhyphen"/>deem precious Time, and repent ſincerely of all their vicious Courſes, the Juſtice of God and Man would yet bring them to condign Punniſhment, and by the Abuſe of longer time they would be leſs fit to Dy, and ſo aggravate their Eternal Con<g ref="char:EOLhyphen"/>demnation. They took my Advice in good part, and I ſhall not be wanting in my Ser<g ref="char:EOLhyphen"/>mons and Prayers to remind them of their Promiſes to improve their reſpit from Death to the belt advantage of their Souls.</p>
+            <p>
+               <hi>Matthew Morgan,</hi> Indicted for breaking up the Houſe of <hi>Elizabeth Bell, September</hi> the 18th. and ſtealing thence 7 <hi>s.</hi> in Mo<g ref="char:EOLhyphen"/>neys, he having little to ſay for himſelf, was brought in Guilty.</p>
+            <p>The <hi>Ordinary</hi> endeavoured to convince him of the greatneſs of his Crime, becauſe he could not but offer Violence to the
+<pb n="4" facs="tcp:106997:3"/>contrary dictates of his Conſcience, before he broke open the Cloſet-door, to carry away the Goods of her who proſecuted him. He con<g ref="char:EOLhyphen"/>feſſed he had been a Sinner many ways, but he was convinced now of his evil courſe of Life, and earneſtly beg'd of God, that he would give him Repentance, an hatred of his Sins, and an obedient frame of heart unto his Laws, and then hoped he ſhould find mercy at the hand of God, whether he lived or dyed.</p>
+            <p>
+               <hi>Robert Nichols</hi> and <hi>Thomas Crompton,</hi> were In<g ref="char:EOLhyphen"/>dicted for aſſaulting, <hi>Aug.</hi> 30. the Body of <hi>Ed<g ref="char:EOLhyphen"/>ward Herring,</hi> with a Sword, giving him a mor<g ref="char:EOLhyphen"/>tal Wound, on which the ſaid <hi>Herring</hi> dyed. <hi>Nichols</hi> pretended he did not draw his Sword himſelf, but the Scabbard was drawn from his Sword by another: But ſetting aſide Pretences, upon Evidence ſufficient, <hi>Nichols</hi> and <hi>Crompton</hi> were found Guilty.</p>
+            <p>The <hi>Ordinary</hi> told them, that it was a great ſin to obſtruct the courſe of Juſtice, in endeavour<g ref="char:EOLhyphen"/>ing to reſcue any man arreſted, out of the hands of the Bayliffs; that ſuch a practice brought on fatal Effect;, in ſhedding Innocent Blood: and that to Kill an Officer of Juſtice in the Execution of his Office was Murder.</p>
+            <p>They expreſſed much Grief for offending God, in the violation of the Laws of the Nati<g ref="char:EOLhyphen"/>on, providing againſt ſuch outragious Attempts, and for all other provocations of God by their evil Courſes, which might expoſe them to the committing of this Crime. So that they ho<g ref="char:EOLhyphen"/>ped, thorow Chriſt's meritorious death, which made ſatisfaction to God's offended Juſtice, that he would pardon them, and waſh away the defilement contracted on their Souls, by ſhed<g ref="char:EOLhyphen"/>ding humane Blood, though they did not ma<g ref="char:EOLhyphen"/>liciouſly deſign it.</p>
+            <p>In my next Viſit of them, I told them, That the Heart of Man is very deceitful, and that they were not to reſt in, much leſs to truſt to any initial Sorrow for Sin, but to endeavour what lay in them, that they might obtain of God the carrying on of their Convictions to a perfect work of Converſion. Therefore I en<g ref="char:EOLhyphen"/>quired of them, what grounds they had to be<g ref="char:EOLhyphen"/>lieve, that God was reconciled to them in Chriſt. I aſſured them, that as the Enmity betwixt him and Sinners is mutual, ſo he expected that they ſhould be reconciled to him, in caſting away their rebellious diſpoſitions, as they deſire he ſhould be at peace with them, in pardoning the guilt of their Sins, that the chief Bleſſing of his Free-grace conſiſted, in turning them from the love of all Iniquity, that Chriſt may be formed in their hearts as the hope of glory. This lively hope they could not have, unleſs they were conformed to the power of his Death and Reſurrection, in dying to the indulgence of their Luſts, and in being quickned to the life of Ho<g ref="char:EOLhyphen"/>lineſs.</p>
+            <p>Upon this they were deſirous to be farther directed by me, how they might proceed ſafely to hope for a bleſſed Eternity. I told them they muſt be willing ingenuouſly and ſincerely to de<g ref="char:EOLhyphen"/>clare what their former courſe of life had been; and that the review of their Sins muſt be with as bitter a deteſtation, as they had committed them with delight, that ſo they might leave ſome publick Teſtimony of the truth of their Repentance, becauſe their Crimes had been ſo Notorious.</p>
+            <p>Hereupon <hi>Edwand Linſy,</hi> Condemned, for Feloniouſly deſerting the Service of the King, after he had taken Pay, ſaid that he was heartily ſorry for his Crime, and all other Sins whereby he had provoked God to leave him to ſuch Diſ<g ref="char:EOLhyphen"/>loyalty.</p>
+            <p>I told him that it was a great Crime to with<g ref="char:EOLhyphen"/>draw himſelf from the Service of His Majeſty, and that he could not have any pretence for it. But this Diſloyalty was founded on the breach of his Vow and Covenant, made to and with Chriſt at his Baptiſm; he had not fulfilled that Sacramental Oath, wherein he engaged to <hi>for<g ref="char:EOLhyphen"/>ſake the Devil and all his Works, that he might become</hi> Chriſt's <hi>faithful Servant and Soldier to his lifes end.</hi> Neither can any man be truly Loyal to his earthly Sovereign, who is not faithfully obedient to his heavenly Father and Almighty Re<g ref="char:EOLhyphen"/>deemer.</p>
+            <p>
+               <hi>Richard Hooker</hi> was not ſo affected and penitent for his Crime as he ought to have been.</p>
+            <p>
+               <hi>Samuel Presby</hi> was formerly burnt in the hand, yet took no warning, and gave but a ſlender account of any remorſe for his Sin.</p>
+            <p>
+               <hi>Henry Corniſh,</hi> late Alderman of <hi>London,</hi> was Indicted for High-Treaſon, in conſpiring the death of the late King with other Traytors, to raiſe a Rebellion, in order to ſubvert the Government, was, upon a full Evidence, brought in Guilty; who is to be executed in <hi>Cheapſide,</hi> facing <hi>King <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> near <hi>Guildhall.</hi>
+            </p>
+            <p>Alſo Mrs. <hi>Gaunt,</hi> for harbouring, and aſſiſting ſeveral of the Rebels that were in the <hi>Weſt,</hi> was Convicted of High-Treaſon, and Executed accordingly at <hi>Tyburn.</hi>
+            </p>
+            <p>Mrs <hi>Elizabeth Gaunt</hi> was very moroſe and obſtinate, and would not admit the <hi>Ordinary</hi> to convince her of her great Crime, nor to pray with her.</p>
+            <p>About Nine of the Clock in the morning, thoſe Priſoners Convicted of High-Treaſon, were drawn in Sleds, the others in Carts, to the ſeveral places of Execution, who ſeemed very penitent all the way they went, Mr. <hi>Ordinary</hi> praying with them. After which, they exhorted the Spectators to take warning by their untimely End of the Effects of Sin. Then they prayed earneſtly by themſelves, deſiring the Peo<g ref="char:EOLhyphen"/>ple to pray for them, after which they were all Executed.</p>
+            <closer>
+               <dateline>Dated <date>this 23d of <hi>October,</hi> 1685.</date>
+               </dateline>
+               <signed>
+                  <hi>Samuel Smith,</hi> Ordinary.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>This may be Printed,</hi> 1685. R.L.S.</p>
+            <p>☞ <hi>Theſe are to give Notice to all Perſons, That the true Account of the whole Tryals of</hi> Henry Corniſh, John Fernly, William Ring, <hi>and</hi> Elizabeth Gaunt, <hi>at the Seſſions held at</hi> Juſtice-Hall <hi>in the</hi> Old-Bayly, <hi>purſuant to an Order Granted by the Right Honourable Sir</hi> James Smith, <hi>Lord Mayor of the City of</hi> London, <hi>will be Printed and Publiſhed by</hi> George Croom.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>G. Croom,</hi> at the <hi>Blue-Ball</hi> in <hi>Thames-ſtreet</hi> over againſt <hi>Baynards Caſtle.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
